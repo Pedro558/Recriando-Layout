@@ -1,0 +1,1 @@
+Design feito no figma e replicado com HTML e CSS
